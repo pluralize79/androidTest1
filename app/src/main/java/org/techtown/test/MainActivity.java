@@ -32,3 +32,5 @@ public class MainActivity extends AppCompatActivity {
 //Ctrl + P : 매개변수로 넣을 수 있는 것들 목록
 //입력 자리 우클릭 > Override Methods : 부모 클래스 오버라이드 메소드 자동 생성
 //상단 Edit > Find > Find in Path 혹은 Ctrl + Shift + F : 코드 검색
+
+//xml파일은 기본 디자인, 가끔 청사진으로 확인
