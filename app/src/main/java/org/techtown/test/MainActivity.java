@@ -34,3 +34,4 @@ public class MainActivity extends AppCompatActivity {
 //상단 Edit > Find > Find in Path 혹은 Ctrl + Shift + F : 코드 검색
 
 //xml파일은 기본 디자인, 가끔 청사진으로 확인
+//뷰가 가지는 속성은 레이아웃에도 있음. =상속관계
