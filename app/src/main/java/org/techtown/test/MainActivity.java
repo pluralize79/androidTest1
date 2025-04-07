@@ -35,3 +35,4 @@ public class MainActivity extends AppCompatActivity {
 
 //xml파일은 기본 디자인, 가끔 청사진으로 확인
 //뷰가 가지는 속성은 레이아웃에도 있음. =상속관계
+///버튼 하나 더 추가해서 테스트
