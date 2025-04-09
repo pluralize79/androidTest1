@@ -38,3 +38,4 @@ public class MainActivity extends AppCompatActivity {
 //버튼 하나 더 추가해서 테스트
 //실제 단말기 연결
 //오늘은 컨디션 난조로 쉬어야겠음
+//좀만 더
