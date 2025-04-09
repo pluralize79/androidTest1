@@ -37,3 +37,4 @@ public class MainActivity extends AppCompatActivity {
 //뷰가 가지는 속성은 레이아웃에도 있음. =상속관계
 //버튼 하나 더 추가해서 테스트
 //실제 단말기 연결
+//오늘은 컨디션 난조로 쉬어야겠음
