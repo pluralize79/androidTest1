@@ -38,3 +38,4 @@ public class MainActivity extends AppCompatActivity {
 //위젯과 레이아웃
 //모든 뷰에는 크기 속성이 있어야함. 없으면 xml 오류 출력
 //제약 레이아웃과 상대 레이아웃
+//복습
